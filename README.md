@@ -3,8 +3,8 @@ Trying to solve advent of code using python, mainly to learn python.
 
 | Day|Solution|Status|
 |-|:-:|:-:|
-|1|[Solution](./Day_1.py)|Done|
-|2|[Solution](./Day_2.py)|Done|
+|1|[Solution](./Solutions/Day_1.py)|Done|
+|2|[Solution](./Solutions/Day_2.py)|Done|
 |3||Pending|
 |4||Pending|
 |5||Pending|
