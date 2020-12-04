@@ -6,7 +6,7 @@ Trying to solve advent of code using python, mainly to learn python.
 |1|[Solution](./Solutions/Day_1.py)|Done|
 |2|[Solution](./Solutions/Day_2.py)|Done|
 |3|[Solution](./Solutions/Day_3.py)|Done|
-|4||Pending|
+|4|[Solution](./Solutions/Day_4.py)|Working on it|
 |5||Pending|
 |6||Pending|
 |7||Pending|
