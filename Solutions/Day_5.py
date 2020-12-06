@@ -1,5 +1,3 @@
-import re
-
 def ReadInput():
     with open('./InputData/Day_5.txt') as reader:
         return reader.read().splitlines()
