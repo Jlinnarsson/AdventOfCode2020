@@ -6,9 +6,9 @@ def ReadInput():
 
 def LoopRange(input, range):
     for char in input:
-        if char == 'F':
+        if (char == 'F') | (char == 'L'):
             range = range[:len(range)//2]
-        if char == 'B':
+        if (char == 'B') | (char == 'R'):
             range = range[len(range)//2:]
     if not range: 
         return 0
