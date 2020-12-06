@@ -16,5 +16,14 @@ input = ReadInput()
 Ids = []
 for data in input:
     Ids.append(LoopRange(data[:7], range(127)) * 8 + LoopRange(data[7:], range(7)))
-    
+
+#Part 1
 print(max(Ids))
+#Part 2
+Ids.sort()
+input_index = 0
+for item in range(min(Ids),max(Ids)):
+    if item != Ids[input_index]:
+        print(item)
+    else :
+        input_index += 1
