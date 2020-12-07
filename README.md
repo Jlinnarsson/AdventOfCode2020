@@ -9,7 +9,7 @@ Trying to solve advent of code using python, mainly to learn python.
 |4|[Solution](./Solutions/Day_4.py)|Done|
 |5|[Solution](./Solutions/Day_5.py)|Done|
 |6|[Solution](./Solutions/Day_6.py)|Done|
-|7||Pending|
+|7|[Solution](./Solutions/Day_7.py)|Done|
 |8||Pending|
 |9||Pending|
 |10||Pending|
