@@ -10,7 +10,7 @@ Trying to solve advent of code using python, mainly to learn python.
 |5|[Solution](./Solutions/Day_5.py)|Done|
 |6|[Solution](./Solutions/Day_6.py)|Done|
 |7|[Solution](./Solutions/Day_7.py)|Done|
-|8||Pending|
+|8|[Solution](./Solutions/Day_8.py)|Done|
 |9||Pending|
 |10||Pending|
 |11||Pending|
@@ -27,3 +27,4 @@ Trying to solve advent of code using python, mainly to learn python.
 |22||Pending|
 |23||Pending|
 |24||Pending|
+|25||Pending|
