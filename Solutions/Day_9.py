@@ -29,14 +29,16 @@ def FilterDict(intput, FilterValue):
 
 def FetchAmountsWithStatus(preamble, input):
     results = {}
-    for i, value in enumerate(input):
+    for i, value in enumerate(input[preamble:]):
+        i += preamble
         results.update({value: FindSum(input[i-preamble:i], value)})
     return results
 
 input = ReadInput()
 #Part 1
 result = FetchAmountsWithStatus(25, input)
-FirstError = int(list(FilterDict(result, False))[-1]) #Yes, this does not really work, but works. Oh well might clean up in the future :P 
+print(FilterDict(result, False))
+FirstError = int(list(FilterDict(result, False))[0])
 print(FirstError)
 #Part 2
 valueSet = FindSet(input, FirstError)
