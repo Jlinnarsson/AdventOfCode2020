@@ -11,7 +11,7 @@ Trying to solve advent of code using python, mainly to learn python.
 |6|[Solution](./Solutions/Day_6.py)|Done|
 |7|[Solution](./Solutions/Day_7.py)|Done|
 |8|[Solution](./Solutions/Day_8.py)|Done|
-|9||Pending|
+|9|[Solution](./Solutions/Day_9.py)|Done|
 |10||Pending|
 |11||Pending|
 |12||Pending|
